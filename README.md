@@ -74,6 +74,6 @@ Each VLAN is configured with:
 - Ensure Cisco Packet Tracer is installed before opening `.pkt` files.
 - Configurations are designed for educational and demonstration purposes.
 
-## 📜 License
+## License
 
 This project is provided for academic use only. You are free to clone and modify it for your own learning or demonstration purposes.
